@@ -10,4 +10,5 @@ EDA 工具使用文档与笔记（VCS / Verdi / VC Formal）。
 
 ## 文档来源
 
-- `Verdi/VCS 与 Verdi 仿真指南.md` — 来源：[vi226035/my-knowledge-base](https://github.com/vi226035/my-knowledge-base)（数字 IC 学习笔记）
+- `Verdi/Verdi 使用详解.pdf` — 来源：[bulaqi/IC-DV.github.io](https://github.com/bulaqi/IC-DV.github.io)（78 页 Verdi 调试教程，微信公众号文章转载）
+- `Verdi/Verdi 基础入门.pdf` — 来源：[sysirq/note](https://github.com/sysirq/note)（Verdi 环境配置 + Makefile 入门）
